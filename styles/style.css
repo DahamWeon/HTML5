@@ -25,6 +25,7 @@ body {
 /* 비주얼 */
 .visual {
   background: orange;
+  height: 10vh;
 }
 /* 메인 */
 .main {
@@ -33,9 +34,9 @@ body {
   display: flow-root;
   padding: 0 15px;
 }
-.group {
+.group{
   margin: 0 15px;
-  float: left
+  float: left;
 }
 .group1 {
   background-color: violet;
